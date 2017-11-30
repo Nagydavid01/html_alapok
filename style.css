@@ -1,0 +1,16 @@
+.fo-menu {
+    height: 120px;
+    background-color: blueviolet;
+}
+
+.menupont {
+
+    height: 40px;
+    margin: 10px 0 10px 10px;
+    background-color: aquamarine;
+    color: coral;
+    display: inline-block;
+    padding-top: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
